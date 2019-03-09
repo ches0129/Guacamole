@@ -1,2 +1,4 @@
-mix ingredients
+mash avacadoes
+chop tomatoes
+stir in lime juice
 add secre ingredient
