@@ -7,4 +7,8 @@ sour cream
 salt
 jalapenos
 onion
+<<<<<<< HEAD
 garlic
+=======
+pepper
+>>>>>>> 8ef3c389237c5af5c02a8e53473be22c67ce33f5
